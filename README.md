@@ -1,5 +1,5 @@
 # Acer A315-53G-5790
-![Hackintosh Cover](https://github.com/Gumball1506/ACER-A315-53G-HACKINTOSH/blob/master/ScreenShot/Screen%20Shot%202019-11-03%20at%2010.27.02%20AM.png)
+![Hackintosh Cover](https://github.com/Gumball1506/ACER-A315-53G-HACKINTOSH/blob/master/ScreenShot/Screen%20Shot%202019-11-03%20at%2012.01.54%20PM.png?raw=true)
 
 Update to macOS 10.15 Catalina
 
@@ -27,7 +27,7 @@ Update to macOS 10.15 Catalina
 2. Built-in Wifi (Must be replaced)
 ```
 
-## How to fix trackpad (Not working on Catalina)
+## How to fix trackpad (No need anymore)
 
 https://www.reddit.com/r/hackintosh/comments/cs2pa2/catalina_update_problem/
 
