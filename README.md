@@ -1,20 +1,12 @@
 # Acer A315-53G-5790
 ![Hackintosh Cover](https://tmp.phongvu.vn/wp-content/uploads/2019/03/Laptop-Acer-Aspire-A3-A315-53-30E7-NX.H2BSV.003-1-e1552533691136.jpg)
 
-## Changelogs
-```
-  - Update to 10.14.6
-  - Update kext to latest
-  - Usb port limit patch
-  - Fix Trackpad
-  - Fix Brightness 
-  - Change from FakeSMC to VirtualSMC 
-```
+Update to macOS 10.15 Catalina
 
 ## Specification
 ```
 - Name: Acer A315-53G
-- Processor: Intel Core i5-8250U ( 1.6 GHz - 3.4 GHz / 6MB / 4 nhân, 8 luồng )
+- Processor: Intel Core i5-8250U
 - Wifi: Qualcomm Atheros QCA9377 Wireless
 - Audio: Realtek ALC255
 - Graphics: 
@@ -26,7 +18,7 @@
   * SSD: Western Digital Green 120GB M.2 2280 SATA 3
 - Dual Boot:
   * Windows 10 Pro
-  * MacOS Mojave
+  * MacOS Catalina 
 ```
 
 ## Known not work
@@ -35,7 +27,7 @@
 2. Built-in Wifi (Must be replaced)
 ```
 
-## How to fix trackpad
+## How to fix trackpad (Not working on Catalina)
 
 https://www.reddit.com/r/hackintosh/comments/cs2pa2/catalina_update_problem/
 
