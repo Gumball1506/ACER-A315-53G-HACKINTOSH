@@ -1,5 +1,5 @@
 # Acer A315-53G-5790
-![Hackintosh Cover](https://tmp.phongvu.vn/wp-content/uploads/2019/03/Laptop-Acer-Aspire-A3-A315-53-30E7-NX.H2BSV.003-1-e1552533691136.jpg)
+![Hackintosh Cover](https://github.com/Gumball1506/ACER-A315-53G-HACKINTOSH/blob/master/ScreenShot/Screen%20Shot%202019-11-03%20at%2010.27.02%20AM.png)
 
 Update to macOS 10.15 Catalina
 
