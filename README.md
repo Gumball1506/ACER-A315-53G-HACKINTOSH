@@ -1,4 +1,7 @@
 # Acer A315-53G-5790
+
+Switch to Opencore -> https://github.com/hanngoc1406/ACER-A315-53G-Hackintosh-Opencore
+
 ![Hackintosh Cover](https://github.com/Gumball1506/ACER-A315-53G-HACKINTOSH/blob/master/ScreenShot/Screen%20Shot%202019-11-03%20at%2012.01.54%20PM.png?raw=true)
 
 Update to macOS 10.15 Catalina
